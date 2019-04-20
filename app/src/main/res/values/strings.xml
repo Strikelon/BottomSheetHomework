@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BottomSheetHomework</string>
+    <string name="city_moscow">Москва</string>
+    <string name="city_saint_petersburg">Санкт-Петербург</string>
+    <string name="city_rostov_na_dony">Ростов-на-дону</string>
+    <string name="city">Город</string>
+</resources>
